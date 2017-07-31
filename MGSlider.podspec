@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                 = "MGSlider"
-  s.version              = "0.0.3"
+  s.version              = "0.0.4"
   s.summary              = "Slider in MGZF"
   s.homepage             = "https://github.com/mgzf/MGSlider"
   s.license              = { :type => "MIT", :file => "LICENSE" }
