@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author             = { "Harly" => "magic_harly@hotmail.com" }
   s.platform             = :ios, "8.0"
   s.source               = { :git => "https://github.com/mgzf/MGSlider", :tag => s.version }
-  s.source_files          = "MGSlider/**/*.{h,m}"
+  s.source_files          = "**/FunnySlider/*.{h,m}"
  # s.resources          = "LPPushService/Images/*.png"
   s.requires_arc         = true
 
