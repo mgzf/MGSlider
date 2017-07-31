@@ -281,6 +281,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 966SKDK4CF;
 				INFOPLIST_FILE = MGSliderDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mogoroom.slider.MGSliderDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -294,6 +295,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 966SKDK4CF;
 				INFOPLIST_FILE = MGSliderDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mogoroom.slider.MGSliderDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -320,6 +322,7 @@
 				47E6FED91F2F2B2100883990 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
